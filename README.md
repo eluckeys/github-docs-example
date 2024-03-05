@@ -34,7 +34,7 @@ puts "Hello, #{user_name}! Welcome to the Ruby world."
 - It should appear above the tab key,
 - but it may vary based on your keyboard layout.
 
-<img width="200px" src="assets/backtick-key" />
+<img width="200px" src="assets/backtick-key.jpg" />
 
 Good Cloud Engineers use codeblocks for both code and errors that appear in the console.
 
@@ -126,7 +126,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ![Photo of pipe character on a keyboard](assets/pipe-char.jpg)
 
-
+[Secret Window Hidden Gardern](secret-window/hidden-garden)
 ## External References
 
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/)
