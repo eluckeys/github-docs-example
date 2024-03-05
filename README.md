@@ -114,8 +114,8 @@ You can use the following markdown (md) format to create tables:
 
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Clouds | `:cloud:` | ☁️: |
-| Clouds | `:cloud_with_lightning:` | 🌩️: |
+| Clouds | `:cloud:` | ☁️ |
+| Clouds | `:cloud_with_lightning:` | 🌩️ |
 ```
 :cloud:
 
@@ -126,7 +126,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 
 ![Photo of pipe character on a keyboard](assets/pipe-char.jpg)
 
-[Secret Window Hidden Gardern](secret-window/hidden-garden)
+[Secret Window Hidden Gardern](secret-window/hidden-garden.md)
 ## External References
 
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/)
