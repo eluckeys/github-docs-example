@@ -59,6 +59,7 @@ Here are some examples:
 | Clouds | `:cloud:` | :cloud: |
 | Clouds | `:cloud_with_lightning:` | :cloud_with_lightning: |
 
+
 # Step 5 - How to create a Table
 
 You can use the following markdown (md) format to create tables:
@@ -67,12 +68,13 @@ You can use the following markdown (md) format to create tables:
 
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
-| Clouds | `:cloud:` | :cloud: |
-| Clouds | `:cloud_with_lightning:` | :cloud_with_lightning: |
+| Clouds | `:cloud:` | ☁️: |
+| Clouds | `:cloud_with_lightning:` | 🌩️: |
 ```
 :cloud:
 
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.  [<sup>[2]</sup>](#externalreferences)
+- Make note of where the pipe
 
 
 ## External References
