@@ -44,7 +44,7 @@ NameError: undefined local variable or method `undefined_variable' for main:Obje
 > Here is an example of using a codeblock for an error that appears in bash.
 
 ## Step 3 - Use Github Flavoured Markdown Task Lists
-Github extends Markdown to have a list where you can check off items.<sup>[1]<sup/><sub>[1]<sub/>(#externalreferences)
+Github extends Markdown to have a list where you can check off items.<sup>[1]<sup/>(#externalreferences)
 - [x] Finish Step 1
 - [ ] Finish Step 2
 - [x] Finish Step 3
